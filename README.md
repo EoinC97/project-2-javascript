@@ -19,3 +19,11 @@ link to project
 
 5. ### Credits
 
+* https://www.w3schools.com
+
+* Google Fonts
+
+* Font Awesome
+
+
+
