@@ -24,14 +24,16 @@ body {
     
 } */
 
+
+/* rules at foot of page */
 .foot {
-    background-color: black;
+    background-color: gray;
     height: 120px;
 }
 
 .rules {
     text-align: center;
-    color: whitesmoke;
+    color: black;
     font-weight:bold;
     padding-top: 10px;
 }

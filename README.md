@@ -38,8 +38,28 @@ link to project
 
 
 # Features
+
+### Rules
+* Header
+  
+  * Sits at the top of the page, the header shows the games name: Rock Paper Scissors
+  
+  * This header clearly tells the user what game they are playing
+
+  ![GitHub Logo](assets/images/heading.png)
+
+* Game Options
+
+   * The game options include a clear instruction and then a choice of options to choose from to play Rock Paper Scissors. these options are interactive buttons that the user can click to make their choice. 
+
+    ![GitHub Logo](assets/images/buttons.png)
+
+* The Game Result
+
+   * 
 <br>
 <br>
+
 
 
 # Testing 
