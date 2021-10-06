@@ -15,27 +15,19 @@ link to project
 
 # Table of Contents
 
-1. ### Introduction 
+1. ### Features
 
-2. ### Features
-
-3. ### Testing
+2. ### Testing
     * Bugs
     * Validator Testing 
 
-4. ### Deployment
+3. ### Deployment
     * Deploying on GitHub Pages 
 
-5. ### Credits
+4. ### Credits
 
 <br>
 <br>
-<br>
-
-# Introduction 
-<br>
-<br>
-
 
 # Features
 
@@ -46,11 +38,15 @@ link to project
   
   * This header clearly tells the user what game they are playing
 
+   <br>
+
   ![GitHub Logo](assets/images/heading.png)
 
 * Game Options
 
    * The game options include a clear instruction and then a choice of options to choose from to play Rock Paper Scissors. these options are interactive buttons that the user can click to make their choice. 
+
+   <br>
 
     ![GitHub Logo](assets/images/buttons.png)
 
@@ -70,6 +66,17 @@ link to project
 <br>
 
 # Deployment
+
+To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:
+
+* Log into GitHub or create an account.
+* Locate the GitHub Repository.
+* At the top of the repository, select Settings from the menu items.
+* Scroll down the Settings page to the "GitHub Pages" section.
+* Under "Source" click the drop-down menu labelled "None" and select "Master Branch".
+* Upon selection, the page will automatically refresh meaning that the website is now deployed.
+* Scroll back down to the "GitHub Pages" section to retrieve the deployed link.
+
 
 <br>
 <br>
